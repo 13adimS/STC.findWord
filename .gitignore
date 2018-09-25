@@ -1,0 +1,5 @@
+*.txt
+/.idea/*
+tips.odt
+findWord.iml
+/out/*
